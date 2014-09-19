@@ -1,0 +1,9 @@
+--- nova/source/nova.py	2014-09-18 14:42:13.391583485 +0200
++++ nova/source/nova.py	2014-09-18 14:42:24.059764910 +0200
+@@ -4,5 +4,5 @@
+ def bar():
+     pass
+ 
+-def bazz():
++def DATFAIL():
+     pass

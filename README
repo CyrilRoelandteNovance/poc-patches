@@ -1,0 +1,8 @@
+$ sh add_patch.sh nova 0003-meant-to-fail.patch
+
+This will fail and leave the repo in a clean state.
+
+$ sh add_patch.sh cinder 0001-add-cinder-bar.patch
+
+This will work and leave one modified file (cinder/patches/series) and tell you
+how to commit your patch.

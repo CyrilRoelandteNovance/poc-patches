@@ -1,0 +1,8 @@
+--- nova/source/nova.py 14:02:15.610716503 +0200
++++ nova/source/nova.py	2014-09-18 14:02:21.770821506 +0200
+@@ -1,2 +1,5 @@
+ def foo():
+     pass
++
++def bar():
++    pass

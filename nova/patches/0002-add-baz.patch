@@ -1,0 +1,9 @@
+--- nova/source/nova.py	2014-09-18 14:15:35.800336488 +0200
++++ nova/source/nova.py	2014-09-18 14:15:43.300464138 +0200
+@@ -3,3 +3,6 @@
+ 
+ def bar():
+     pass
++
++def baz():
++    pass

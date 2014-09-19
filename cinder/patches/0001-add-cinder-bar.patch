@@ -1,0 +1,8 @@
+--- cinder/source/cinder.py	2014-09-18 15:33:55.808502948 +0200
++++ cinder/source/cinder.py	2014-09-18 15:34:00.156577830 +0200
+@@ -1,2 +1,5 @@
+ def cinder_foo():
+     pass
++
++def cinder_bar():
++    pass
